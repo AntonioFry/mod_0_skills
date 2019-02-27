@@ -1,0 +1,6 @@
+Class 1: Appetizers
+	Attributes:
+		-Name (string)
+		-Calories (integer)
+		-Ingredients (array)
+		-Price (integer)
