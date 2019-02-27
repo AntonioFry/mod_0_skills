@@ -1,0 +1,6 @@
+Class 1: Retrieval method
+	Attributes:
+		-Pick up (boolean)
+		-Delivery (boolean)
+			-Additional fee (integer)
+		
