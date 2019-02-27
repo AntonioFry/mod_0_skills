@@ -7,3 +7,8 @@ lass 1: Entrees
 		-Alternative options:
 			Vegetarian (boolean)
 			Gluten free (boolean)
+
+	Methods:
+		-Order (name)
+		-Remove_Order (name)
+		-Choose_Alternative_Option (name)
