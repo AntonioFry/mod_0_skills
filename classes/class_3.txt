@@ -3,4 +3,6 @@ Class 1: Retrieval method
 		-Pick up (boolean)
 		-Delivery (boolean)
 			-Additional fee (integer)
-		
+
+	Methods:
+		-Choose_Retrieval_Method (name)
