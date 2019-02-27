@@ -1,0 +1,20 @@
+1. Decide What kind of food you want
+	-Based on how you feel decide onf food (pizza, chinese, ramen, etc)
+2. Search for a restaurant that matches the food you desire
+	-Using the internet find food that matches your desire
+	-Make sure that restaurant is nearby (5 mile radius)
+	-Make sure that the restaurant is open
+	-Set a waypoint to that restaurant using GPS
+3. Decide on mode of transportation
+	-If you own a car, drive there
+	-If you own a bike, ride
+	-Otherwise use public transportation
+4. Arrive at the restaurant
+	-Using the best route you arrive at the restaurant
+	-Get seated and wait for a menu
+	-If getting takeout, order from the counter.
+5. Order food
+	-Read items from the menu
+	-Read ingredients
+	-Decide what you want
+	-Place the order with an employee 
