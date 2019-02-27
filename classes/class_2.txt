@@ -1,0 +1,9 @@
+lass 1: Entrees
+	Attributes:
+		-Name (string)
+		-Calories (integer)
+		-Ingredients (array)
+		-Price (integer)
+		-Alternative options:
+			Vegetarian (boolean)
+			Gluten free (boolean)
