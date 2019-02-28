@@ -1,8 +1,11 @@
-Class 1: Retrieval method
+Class 1: Categories of food (Ex: Salads, Burgers, etc.)
 	Attributes:
-		-Pick up (boolean)
-		-Delivery (boolean)
-			-Additional fee (integer)
+		-Category_Name (string)
+		-Top_3_Dishes (array)
+			-Dish_Names (string)
+			-Price (integer)
 
 	Methods:
-		-Choose_Retrieval_Method (name)
+		-Dish_Details (Dish_Name)
+		-Order (Dish_Name)
+		-See_All_Items (Category_Name)
